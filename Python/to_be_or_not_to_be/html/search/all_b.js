@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['tobeornottobe',['tobeornottobe',['../namespacetobeornottobe.html',1,'']]],
-  ['tobeornottobe_2epy',['tobeornottobe.py',['../tobeornottobe_8py.html',1,'']]]
+  ['sortranking',['sortRanking',['../namespacetobeornottobe.html#ad9c42d21c6c840053e648f27aa388f25',1,'tobeornottobe']]]
 ];
