@@ -1,2 +1,2 @@
-# marcinzemlok-github.io
+# marcinzemlok.github.io
 Repository for my Github pages
