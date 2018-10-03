@@ -1,3 +1,6 @@
 [submodule "SIiM-projekt"]
 	path = SIiM-projekt
 	url = https://github.com/MarcinZemlok/SIiM-projekt
+[submodule "Python"]
+	path = Python
+	url = https://github.com/MarcinZemlok/Python
