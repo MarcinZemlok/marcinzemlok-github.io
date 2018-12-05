@@ -6,4 +6,4 @@ Repository for my Github pages
 #### Genetic
 1. "To be or not to be..." [documentation](https://marcinzemlok.github.io/Python/genetic/to_be_or_not_to_be/html/)
 ### JavaScript projects
-1. "[Wirtual tour](https://marcinzemlok.github.io/SIiM-projekt/)"
+1. "[Virtual tour](https://marcinzemlok.github.io/SIiM-projekt/)"
